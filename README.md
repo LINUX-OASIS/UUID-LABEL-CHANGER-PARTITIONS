@@ -3,9 +3,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-100%25-lightgrey?logo=gnubash&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux-yellow.svg?logo=linux)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/LINUX-OASIS/UUID-LABEL-CHANGER-PARTITIONS/issues)
-[![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/UUID-LABEL-CHANGER-PARTITIONS)](https://github.com/LINUX-OASIS/UUID-LABEL-CHANGER-PARTITIONS/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/LINUX-OASIS/UUID-LABEL-CHANGER-PARTITIONS)](https://github.com/LINUX-OASIS/UUID-LABEL-CHANGER-PARTITIONS/pulls)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/LINUX-OASIS/uuid-label-changer/issues)
+[![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/uuid-label-changer)](https://github.com/LINUX-OASIS/uuid-label-changer/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/LINUX-OASIS/uuid-label-changer)](https://github.com/LINUX-OASIS/uuid-label-changer/pulls)
 
 A powerful and safe TUI (Text-based User Interface) utility for changing the `UUID` and `LABEL` of your Linux partitions. Built with `bash` and `whiptail`, this script provides a user-friendly way to manage partition identifiers without needing to memorize complex command-line arguments.
 
@@ -57,8 +57,9 @@ The script requires several command-line utilities to function. It will automati
 1.  **Clone the repository (or download the script):**
 
     ```bash
-    git clone https://github.com/LINUX-OASIS/UUID-LABEL-CHANGER-PARTITIONS.git
-    cd UUID-LABEL-CHANGER-PARTITIONS
+    # Replace with your actual repository URL
+    git clone https://github.com/LINUX-OASIS/uuid-label-changer.git
+    cd uuid-label-changer
     ```
 
 2.  **Make the script executable:**
@@ -84,15 +85,6 @@ The script requires several command-line utilities to function. It will automati
 Pull requests, issues, and suggestions are warmly welcomed!
 
 For major changes, please open an issue first to discuss what you would like to change. See CONTRIBUTING.md for guidelines.
-
----
-
-## 🌐 Links
-
-*   Issues
-*   Pull Requests
-*   Releases
-*   Wiki
 
 ---
 
